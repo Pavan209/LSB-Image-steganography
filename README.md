@@ -40,14 +40,3 @@ LSB (Least Significant Bit) Image Steganography is a technique for hiding secret
  Secure Communication: Send confidential messages hidden within images.
  Watermarking: Embed metadata or ownership information into digital images.
  Forensics: Conceal critical information for investigative purposes.
-
-
- License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
-
-
- - Acknowledgments
- The project utilizes the Pillow library for image processing and NumPy for efficient data manipulation.
- Inspired by the growing demand for secure and creative data hiding techniques.
-
